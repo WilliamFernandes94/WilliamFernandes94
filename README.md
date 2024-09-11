@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Hellooo! 👋 Nice to meet you.
 
-I'm a developer and technology enthusiast and Analysis Systems Development
+I'm a Software Developer and technology enthusiast and Analysis Systems Development, Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-- 🌱 I’m currently learning backend developer...
+
 - 📫 How to reach me: williamdeveloper.94@gmail.com - whatsapp: +55 63 984940675
 <div>
 <img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=williamfernands&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
